@@ -3,27 +3,28 @@
    Me chamo Vinicius Marx, atuo como Desenvolvedor Full Stack.
 </p>
  
-- 🎓 Graduando em ANALISE E DESENVOLVIMENTO DE SISTEMAS na <a href="https://www.ucs.br/" target="_blank">Universidade de Caxias do Sul</a>.
+- 🎓 Graduando Análise e Desenvolvimento de Sistemas na <a href="https://www.ucs.br/" target="_blank">UCS</a>.
 - 💼 Trabalhando como Desenvolvedor de sistemas na <a href="https://www.tramontina.com.br/" target="_blank">TRAMONTINA</a>.
-- 🌱 Conhecimento em: HTML5, CSS3, JAVASCRIPT, GIT, GITHUB, GITLAB, GENERO BDL, INFORMIX SQL.
+- 🌱 Conhecimento em: HTML5, CSS3, JAVASCRIPT, TYPESCRIPT, REACT, NODE.JS, GIT, GITHUB, GITLAB, GENERO BDL, INFORMIX SQL.
   
 <h3>Minhas Hard-Skills</h3>
 
 **Conhecimento**
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="Javascript"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript"/></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git"/></code>
 <code><img height="30" src="https://avatars.githubusercontent.com/u/15048951?s=200&amp;v=4" alt="Genero-BDL"/></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js"/></code>
 
 **Onde me encontrar**
 
-[![Linkedin](https://img.shields.io/badge/-LinkeIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusmarx/)](https://www.linkedin.com/in/viniciusmarx/)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/viniciusmarx_/)](https://www.instagram.com/viniciusmarx_/)
-[![Gmail Badge](https://img.shields.io/badge/vinimarx@Live.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vinimarx@live.com)](mailto:vinimarx@Live.com?subject=)
-[![GitHub](https://img.shields.io/github/followers/viniciusmarx?label=GitHub&style=social)](https://github.com/viniciusmarx)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusmarx/)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/viniciusmarx_/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinimarx@Live.com?subject=)
 
 <div>
 <a href="https://github.com/viniciusmarx">
