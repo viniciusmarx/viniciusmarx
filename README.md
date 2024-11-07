@@ -5,7 +5,7 @@
  
 - 🎓 Graduando Análise e Desenvolvimento de Sistemas na <a href="https://www.ucs.br/" target="_blank">UCS</a>.
 - 💼 Trabalhando como Desenvolvedor de sistemas na <a href="https://www.tramontina.com.br/" target="_blank">TRAMONTINA</a>.
-- 🌱 Conhecimento em: JAVASCRIPT, HTML5, CSS3, GIT, GITHUB, GITLAB, GENERO BDL, INFORMIX SQL.
+- 🌱 Conhecimento em: JAVASCRIPT, HTML5, CSS3, GIT, GITHUB, GITLAB, GENERO BDL, VITE, REACT.
   
 <h3>Minhas Hard-Skills</h3>
 
@@ -16,6 +16,8 @@
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS"/></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git"/></code>
 <code><img height="30" src="https://avatars.githubusercontent.com/u/15048951?s=200&amp;v=4" alt="Genero-BDL"/></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg"/></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/></code>
 
 **Onde me encontrar**
 
