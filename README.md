@@ -1,23 +1,21 @@
-<h1>Olá, como vai?</h1>
-<p>
-   Me chamo Vinicius Marx, atuo como Desenvolvedor Full Stack.
-</p>
- 
-- 🎓 Graduando Análise e Desenvolvimento de Sistemas na <a href="https://www.ucs.br/" target="_blank">UCS</a>.
-- 💼 Trabalhando como Desenvolvedor de sistemas na <a href="https://www.tramontina.com.br/" target="_blank">TRAMONTINA</a>.
-- 🌱 Conhecimento em: JAVASCRIPT, HTML5, CSS3, GIT, REACT.
-  
-<h3>Minhas Hard-Skills</h3>
+<h1>Hi 👋, I'm Vinicius Marx</h1>
 
-**Conhecimento**
+**I'm a System Developer**
+
+-   🎓 Analysis and Systems Development Student at <a href="https://www.ucs.br/" target="_blank">UCS</a>.
+-   💼 I work as a Systems Developer at <a href="https://www.tramontina.com.br/" target="_blank">TRAMONTINA</a>.
+
+<h3>My Hard-Skills</h3>
 
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="Javascript"/></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5"/></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS"/></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git"/></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/></code>
 
-**Onde me encontrar**
+<h3>You can find me here</h3>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusmarx/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/viniciusmarx_/)
