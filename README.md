@@ -1,10 +1,10 @@
 <h1>Hi 👋, I'm Vinicius</h1>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"  width="400px" align="right" alt="Computador viniciusmarx">
 
-**I'm a System Developer**
+**I'm a full stack developer**
 
-- 🎓 Analysis and Systems Development Student at <a href="https://www.ucs.br/" target="_blank">UCS</a>.
-- 💼 I work as a Systems Developer at <a href="https://www.tramontina.com.br/" target="_blank">TRAMONTINA</a>.
+- 🎓 Systems Analysis and Development Student at <a href="https://www.ucs.br/" target="_blank">UCS</a>.
+- 💼 Software Developer at <a href="https://www.tramontina.com.br/" target="_blank">TRAMONTINA</a>.
 
 <h3>My Hard-Skills</h3>
 
