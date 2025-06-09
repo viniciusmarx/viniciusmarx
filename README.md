@@ -4,7 +4,7 @@
 **I'm a full stack developer**
 
 - 🎓 Systems Analysis and Development Student at <a href="https://www.ucs.br/" target="_blank">UCS</a>.
-- 💼 Software Developer at <a href="https://www.tramontina.com.br/" target="_blank">TRAMONTINA</a>.
+- 💼 Developer at <a href="https://www.tramontina.com.br/" target="_blank">TRAMONTINA</a>.
 
 <h3>My Hard-Skills</h3>
 
